@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CATALOG>
+    <WATCH>
+        <TITLE>Please select Item</TITLE>
+        <PRICE>Depend on item</PRICE>
+        <IMAGE>img/shopping-basket.png</IMAGE>
+    </WATCH>
+    
+    <WATCH>
+        <TITLE>CASIO EQB-600</TITLE>
+        <PRICE>$400</PRICE>
+        <IMAGE>img/portfolio/store/eqb600.jpg</IMAGE>
+    </WATCH>
+    <WATCH>
+        <TITLE>PROTREK PRW3100Y-1</TITLE>
+        <PRICE>$2182.60</PRICE>
+        <IMAGE>img/portfolio/store/protrek.jpg</IMAGE>
+    </WATCH>
+    <WATCH>
+        <TITLE>OCEANUS OCW-G1100S-1A</TITLE>
+        <PRICE>$165.11</PRICE>
+        <IMAGE>img/portfolio/store/ocean1.jpg</IMAGE>
+    </WATCH>
+    <WATCH>
+        <TITLE>BABY-G bga210-7B3</TITLE>
+        <PRICE>$165.11</PRICE>
+        <IMAGE>img/portfolio/store/bga210_4.jpg</IMAGE>
+    </WATCH>
+    <WATCH>
+        <TITLE>BABY-G BGA-240L-1A</TITLE>
+        <PRICE>$165.11</PRICE>
+        <IMAGE>img/portfolio/store/babyg1.1.jpg</IMAGE>
+    </WATCH>
+    <WATCH>
+        <TITLE>G-SHOCK GA700-1A</TITLE>
+        <PRICE>$105</PRICE>
+        <IMAGE>img/portfolio/store/GA700-1A.jpg</IMAGE>
+    </WATCH>
+    <WATCH>
+        <TITLE>G-SHOCK MTG-G1000</TITLE>
+        <PRICE>$1411.42</PRICE>
+        <IMAGE>img/portfolio/store/mtg.jpg</IMAGE>
+    </WATCH>
+    <WATCH>
+        <TITLE>CASIO PROTREK</TITLE>
+        <PRICE>$346.31</PRICE>
+        <IMAGE>img/portfolio/store/protrek.jpg</IMAGE>
+    </WATCH>
+    <WATCH>
+        <TITLE>CASIO SprotGear GB1000</TITLE>
+        <PRICE>$$99.95</PRICE>
+        <IMAGE>img/portfolio/store/G-GMAS110CM-7A2.jpg</IMAGE>
+    </WATCH>
+    <WATCH>
+        <TITLE>G-SHOCK GMAS110CM-7A2</TITLE>
+        <PRICE>$130</PRICE>
+        <IMAGE>img/portfolio/store/gshock.jpg</IMAGE>
+    </WATCH>
+	
+</CATALOG>
